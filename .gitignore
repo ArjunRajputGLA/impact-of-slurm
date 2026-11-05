@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.ipynb_checkpoints/
+*.log
+onednn_profile.log
+vtune_colab_res/
+.env
+.venv/
+venv/
+env/
