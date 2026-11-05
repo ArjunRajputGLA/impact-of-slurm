@@ -21,6 +21,8 @@ This application demonstrates the performance impact of hardware-aware **Slurm t
 
 ### 1. Install Dependencies
 ```bash
+git clone https://github.com/ArjunRajputGLA/impact-of-slurm.git
+cd impact-of-slurm
 pip install -r requirements.txt
 ```
 
